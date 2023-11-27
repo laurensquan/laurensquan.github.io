@@ -1,6 +1,4 @@
-﻿/* styles.css */
-/* General Styles */
-body {
+﻿body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -55,8 +53,7 @@ footer {
     margin-top: 20px;
 }
 
-/* Add specific styles for each section/page */
-/* For example: */
+/* Specific styles for each section/page */
 .about-section {
     text-align: center;
 }
